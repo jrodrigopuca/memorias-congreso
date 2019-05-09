@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="tipo_contenido"  content="text/html;" http-equiv="content-type" charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="sc-ebooks.js"></script>
+
+    <!--Jumbotron-->
+    <div class="jumbotron text-center">
+        <h3>VIII Congreso Iberoamericano de Investigadores y Docentes en Derecho e Informática: Memorias</h3>
+        <small>Mario Ramiro Aguilar Martinez ... [et al.] ; compilado por Guillermina Nievas. </small>
+        <h4> 1a ed. - Salta : Universidad Católica de Salta. Eucasa, 2018. CD-I, PDF</h4>
+        <h4><b>ISBN 978-950-623-153-8</b></h4>
+        <small>1. Informática. 2. Derecho. I. Aguilar Martinez, Mario Ramiro II. Nievas, Guillermina, comp. CDD 340 </small>
+    </div>
+
+
+    <!--Parte Principal-->
+    <div class="container-fluid row">
+        <div class="col-xs-4 col-sm-4">
+            <br>
+            <!--Panel Buscar-->
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title">Buscar</h3>
+                </div>
+                <div class="panel-body">
+                    <input id="textoBuscar" type="text" class="form-control" placeholder="Buscar solo por título">
+                    <br>
+                    <div>
+                        <div class="dropdown">
+                            <button id="btnArea" class="btn btn-primary dropdown-toggle" type="button"
+                                data-toggle="dropdown">Buscar solo por Categoría
+                                <span class="caret"></span>
+                            </button>
+                            <ul id="SeleccionaArea" class="dropdown-menu list-group" style="cursor: pointer">
+                                <li class="list-group-item">Todos</li>
+                                <li class="list-group-item">Las nuevas tecnologías y el derecho</li>
+                                <li class="list-group-item">Educación</li>
+                                <li class="list-group-item">Datos personales - confidencialidad y privacidad</li>
+                                <li class="list-group-item">Delitos informáticos - pericias e informática forense</li>
+                                <li class="list-group-item">Regulación y legislación informática actual: Nuevos desafíos
+                                </li>
+                                <li class="list-group-item">Gobierno y TI</li>
+                            </ul>
+                        </div>
+                        <div class="dropdown">
+                            <button id="btnTipo" class="btn btn-primary dropdown-toggle" type="button"
+                                data-toggle="dropdown">Buscar solo por Tipo
+                                <span class="caret"></span>
+                            </button>
+                            <ul id="SeleccionaTipo" class="dropdown-menu list-group" style="cursor: pointer">
+                                <li class="list-group-item">Todos</li>
+                                <li class="list-group-item">Trabajo de Investigación - Artículo Completo</li>
+                                <li class="list-group-item">Trabajo de Investigación - Comunicación Oral (Resumen)</li>
+                                <li class="list-group-item">Trabajo de Alumno - Trabajo de Investigación</li>
+                                <!--
+                                    <li class="list-group-item">Trabajo de Investigación - Póster</li>
+                                    <li class="list-group-item">Trabajo de Alumno - Proyecto de Grado</li>
+                                    <li class="list-group-item">Trabajo de Alumno - Trabajo de Investigación</li>
+                                -->
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <br>
+            <!--Panel Resultados-->
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title">Lista de Artículos</h3>
+                </div>
+                <div class="panel-body" id="Seleccionador">
+                    <ul class="list-group" style="max-height: 900px; overflow-y:scroll;">
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-8">
+            <!--Panel Información-->
+            <br>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title">Información sobre artículo</h3>
+                </div>
+                <div class="panel-body">
+                    <div id="showdata">
+                        <!--Datos del PDF-->
+                        Por favor seleccione un artículo para ver su información
+                    </div>
+
+                </div>
+            </div>
+            <!--Panel PDF-->
+            <br>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title">Artículo</h3>
+                </div>
+                <div class="panel-body">
+                    <div id="show" class="google-pdf">
+                        <!--PDF-->
+                        <iframe id="mipdf" src="https://drive.google.com/file/d/1n-I7Y3-v_eYm1B80YWVES029fi0gjtqE/preview"></iframe>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <br>
+    <p class="text-center">
+        Sede 2018: Campo Castañares - (Salta - Argentina) - C.P.: A4402FYP
+    </p>
+    <p class="text-center">
+        <img src="barras.jpg" alt="" class="" height="80px">
+    </p>
+    <p class="text-center">Web desarrollada por
+        <a href="https://about.me/jrodrigopuca">Juan Puca </a>
+    </p>
+
+</body>
+
+</html>

@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "titulo": "Arquitectura y Organización de Laboratorios de Informática Forense",
+        "autores": "Bruno Constanzo, Pablo Malaret, Paula Vega, Pablo Cistoldi*, Ana Haydée Di Iorio",
+        "archivo": "1r3zRg0jdxE4hiVZnpUsC-ltnAhT0hzOr",
+        "categoria": "Delitos informáticos - pericias e informática forense",
+        "tipo": "Trabajo de Investigación - Artículo Completo"
+    },
+    {
+        "id": 2,
+        "titulo": "Articulación entre la Evidencia Digital y el Código de Procedimiento, en Materia de Prueba Científica",
+        "autores": "Sergio Guillet, Lilia Palomo, Silvina Mues",
+        "archivo": "1ERVrMGdd5ovVPl50Uy-RR-ycUS6oENY9",
+        "categoria": "Delitos informáticos - pericias e informática forense",
+        "tipo": "Trabajo de Investigación - Artículo Completo"
+    },
+    {
+        "id": 3,
+        "titulo": "Deep Web: ¿amiga o enemiga?",
+        "autores": "Vocos, Uriel Guillermo",
+        "archivo": "1zPE6tVTpCTTBUs61hrgtnGNK4NzZVE71",
+        "categoria": "Las nuevas tecnologías y el derecho",
+        "tipo": "Trabajo de Alumno - Trabajo de Investigación"
+    },
+    {
+        "id": 4,
+        "titulo": "Desafíos de regulación jurídica en la contratación electrónica",
+        "autores": "Aída Noblia",
+        "archivo": "1nYY7lmui1KcAqvC_X7Tp7gqg8WJabM6U",
+        "categoria": "Las nuevas tecnologías y el derecho",
+        "tipo": "Trabajo de Investigación - Comunicación Oral (Resumen)"
+    },
+    {
+        "id": 5,
+        "titulo": "Elaboración de una guía integral de empleo de la informática forense en el proceso penal de Ecuador",
+        "autores": "Frankz Alberto Carrera Calderón, Mario Ramiro Aguilar Martinez§,, Bruno Constanzo*, Sabrina Lamperti*, Ana Haydee Di Iorio*, Mario Fortunato Zavala Hoyos§",
+        "archivo": "1VvLCpSwtE3HqatZpKTl1_9rb53IUU0gE",
+        "categoria": "Delitos informáticos - pericias e informática forense",
+        "tipo": "Trabajo de Investigación - Artículo Completo"
+    },
+    {
+        "id": 6,
+        "titulo": "Nuevos modelos de Negocios en Internet: Regulación Jurídica de Servicios prestados a través de Aplicaciones Móviles. El caso Uber",
+        "autores": "John Grover Dorado (h)",
+        "archivo": "1-FrZDvKMLP7CsLaP72CbT8OjvbChWywL",
+        "categoria": "Regulación y legislación informática actual: Nuevos desafíos",
+        "tipo": "Trabajo de Investigación - Artículo Completo"
+    },
+    {
+        "id": 7,
+        "titulo": "Perspectivas Sociales de Implementación de Sistemas de Telefonía Móvil basados en Retransmisión y Radios Cognitivas",
+        "autores": "Breslin, Roberto Daniel y Araoz Fleming, José Daniel",
+        "archivo": "166AIlPMrpYcKK4Yj9WL42gAOiWBHfuuL",
+        "categoria": "Las nuevas tecnologías y el derecho",
+        "tipo": "Trabajo de Investigación - Artículo Completo"
+    },
+    {
+        "id": 8,
+        "titulo": "Revisión sobre competencia digitales y entornos colaborativos en la formación universitaria argentina",
+        "autores": "Luisa Geraldine Yarasca Guzmán",
+        "archivo": "1F2o6WfguJQnvleKENWKiUmtDfmQVAZxo",
+        "categoria": "Educación",
+        "tipo": "Trabajo de Investigación - Artículo Completo"
+    },
+    {
+        "id": 9,
+        "titulo": "Solución electrónica de controversias en los contratos de consumo internacional",
+        "autores": "Gianfelici, Florencia Romina",
+        "archivo": "1YbO_SD2GyFK8_hJYqBSDj5Z-g2gthP8j",
+        "categoria": "Regulación y legislación informática actual: Nuevos desafíos",
+        "tipo": "Trabajo de Alumno - Trabajo de Investigación"
+    },
+    {
+        "id": 10,
+        "titulo": "Wearable Technology: Ante un futuro prometedor o un desafío juridico de múltiples aristas",
+        "autores": "Bruno Constanzo, Pablo Malaret, Paula Vega, Pablo Cistoldi*, Ana Haydée Di Iorio",
+        "archivo": "15utPo2MwRebdPNfj5yeDknp3rhTmWbD4",
+        "categoria": "Las nuevas tecnologías y el derecho",
+        "tipo": "Trabajo de Investigación - Artículo Completo"
+    }
+]
