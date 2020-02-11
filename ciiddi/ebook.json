@@ -86,5 +86,21 @@
         "archivo": "1JOTOihmjEk4HWzg3skopw5d71g9PuU4G",
         "categoria": "Gobierno y TI",
         "tipo": "Trabajo de Investigación - Artículo Completo"
+    },
+    {
+        "id": 12,
+        "titulo": "Importancia de la evidencia digital móvil en el Sistema Procesal Penal",
+        "autores": "Graciela Viaña, Liliana Figueroa, Cecilia Lara, Norma Lesca, Adriana Binda",
+        "archivo": "1DTO_JCVyjYpJn08QBLYUzA-Fdgz72rv-",
+        "categoria": "Delitos informáticos - pericias e informática forense",
+        "tipo": "Trabajo de Investigación - Artículo Completo"
+    },
+    {
+        "id": 13,
+        "titulo": "Desarrollo de herramienta para análisis de cabeceras de correos electrónicos",
+        "autores": "Beatriz Gallo, Esteban Rivetti y Enzo Notario",
+        "archivo": "1z3n8aTwHyoKbfGLkjB3hopjc95r5F8tD",
+        "categoria": "Delitos informáticos - pericias e informática forense",
+        "tipo": "Trabajo de Investigación - Artículo Completo"
     }
 ]
